@@ -113,8 +113,8 @@ The GenVM linter catches contract issues before deployment:
 
 ## Frontend Patterns
 
-- Contract interactions: `frontend/lib/contracts/FootballBets.ts`
-- React hooks: `frontend/lib/hooks/useFootballBets.ts`
+- Contract interactions: `frontend/lib/contracts/StakedTakes.ts`
+- React hooks: `frontend/lib/hooks/useStakedTakes.ts`
 - Wallet context: `frontend/lib/genlayer/WalletProvider.tsx`
 - GenLayer client: `frontend/lib/genlayer/client.ts`
 
