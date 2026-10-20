@@ -1,0 +1,6 @@
+{
+  "name": "StakedTakes",
+  "description": "Public staked-claims platform built on GenLayer. Post falsifiable claims, lock GEN, and get judged by validators using author-supplied sources with Brier-based credibility tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
