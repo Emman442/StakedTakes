@@ -37,7 +37,6 @@ export default async function main(client: GenLayerClient<any>) {
         appealWindowMs,
         appealBond,
         minStake,
-        retractWindowMs,
       ],
     });
 
